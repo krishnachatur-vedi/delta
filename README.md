@@ -1,2 +1,2 @@
 # delta
-this is a respository for delta
+this is a respository for delta.
